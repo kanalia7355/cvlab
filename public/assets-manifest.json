@@ -1,0 +1,7 @@
+[
+  {
+    "path": "public/vendor/opencv.js",
+    "package": "@techstark/opencv-js@4.11.0-release.1",
+    "sha256": "5ad229d2666fce6803a3af4a569121bd6da8d09d5c164dbafb0d7f758460c25e"
+  }
+]

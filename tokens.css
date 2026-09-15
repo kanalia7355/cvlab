@@ -1,0 +1,32 @@
+:root {
+  --color-paper: oklch(96.5% 0.005 200);
+  --color-paper-2: oklch(93.5% 0.007 200);
+  --color-paper-3: oklch(89% 0.01 200);
+  --color-rule: oklch(82% 0.008 200);
+  --color-rule-2: oklch(68% 0.01 200);
+  --color-muted: oklch(48% 0.012 205);
+  --color-neutral: oklch(34% 0.016 205);
+  --color-ink-2: oklch(22% 0.02 205);
+  --color-ink: oklch(13% 0.024 205);
+  --color-accent: oklch(46% 0.14 145);
+  --color-accent-ink: oklch(46% 0.14 145);
+  --color-focus: oklch(48% 0.14 145);
+  --font-display: "Fraunces", "IBM Plex Sans JP", sans-serif;
+  --font-body: "IBM Plex Sans JP", sans-serif;
+  --color-accent-ink: var(--color-paper);
+  --color-error: oklch(40% 0.16 28);
+  --color-muted: oklch(40% 0.018 205);
+  --color-clear: transparent;
+  --space-xs: 0.5rem;
+  --space-sm: 0.75rem;
+  --space-md: 1rem;
+  --space-lg: 1.5rem;
+  --space-xl: 2.5rem;
+  --space-2xl: 4rem;
+  --text-display: clamp(2rem, 4.2vw, 4rem);
+  --radius-input: 2px;
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in: cubic-bezier(0.7, 0, 0.84, 0);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+  --dur-micro: 120ms;
+}
